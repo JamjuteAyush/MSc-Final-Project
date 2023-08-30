@@ -1,6 +1,5 @@
 #include <Arduino.h>
 #include "camera_ov2640.h"
-#include "camera_index.h"
 #include "imageProcessing.h"
 #include "Webpage.h"
 
