@@ -1,3 +1,7 @@
+/*
+the library esp_camera.h and img_converters.h are IP of espressif systems available on:
+"https://github.com/espressif/esp32-camera"
+*/
 #include "esp_camera.h"
 #include "img_converters.h"
 
