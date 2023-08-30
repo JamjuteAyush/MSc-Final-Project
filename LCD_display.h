@@ -1,4 +1,6 @@
-
+/*
+"LiquidCrystal_I2C.h" library taken from "https://github.com/johnrickman/LiquidCrystal_I2C" 
+*/
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 
