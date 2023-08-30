@@ -1,3 +1,10 @@
+/*
+"ESPAsyncWebServer.h" is third party library available on "https://github.com/me-no-dev/ESPAsyncWebServer"
+it also requires the AsyncTCP library to work available on "https://github.com/me-no-dev/AsyncTCP"
+
+"SPIFFS.h" and "FS.h" are libraries by Espressif
+*/
+
 #include "soc/soc.h"           // Disable brownour problems
 #include "soc/rtc_cntl_reg.h"  // Disable brownour problems
 #include "driver/rtc_io.h"
